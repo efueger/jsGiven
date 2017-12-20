@@ -1,6 +1,6 @@
 env:
   global:
-    - CC_TEST_REPORTER_ID=7372bdd9c70ad42f845941f1c5fba601dc0af2bb4ec221d55f6b04d228261b2c
+    - CC_TEST_REPORTER_ID=d939916781d16fa86daaf057c699d608b825d2fedb48685244329dc8f2f08eaf
 language: node_js
 dist: trusty
 addons:
